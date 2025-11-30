@@ -1,6 +1,6 @@
 import random
 
-wordBank=[ "planet", "orange", "guitar", "castle", "bridge", "forest", "frozen","golden", "shadow", "mirror", "socket", "switch", "window", "rocket","python", "banana", "market", "random", "wizard", "legend", "mystic","galaxy", "island", "beauty", "silver", "danger", "hunter", "puzzle","thunder", "crystal", "diamond", "journey", "kingdom", "network","firefly", "butter", "cookie", "candle", "tunnel", "marker", "circle","impact", "instead", "perfect", "victory", "freedom", "passion","horizon", "awesome", "gravity", "valley", "engine", "device", "system"]
+wordBank=[ "planet", "orange", "guitar", "castle", "bridge", "forest", "frozen","golden", "shadow", "mirror", "socket", "switch", "window", "rocket","python", "banana", "market", "random", "wizard", "legend", "mystic","galaxy", "island", "beauty", "silver", "danger", "hunter", "puzzle","thunder", "crystal", "diamond", "journey", "kingdom", "network","firefly", "butter", "cookie", "candle", "tunnel", "marker", "circle","impact", "instead", "perfect", "victory", "freedom", "passion","horizon", "awesome", "gravity", "valley", "engine", "device", "system","flower"]
 
 word=random.choice(wordBank)
 
